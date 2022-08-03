@@ -470,12 +470,12 @@
 // **
 // *
 
-var i = 0;
-var n = "*";
-while (i <= 7) {
-  document.write(n);
-  i++;
-};
+// var i=7;
+// var str="*******"
+// while (i>=1) {  
+// document.write(str +"<br>")
+// i--
+// };
 
 // 26. Write a program to create the following patterns in your
 // browser. Take number of lines as an input.
@@ -486,11 +486,29 @@ while (i <= 7) {
 // *****
 // *****
 
+// var input=prompt("Enter a number")
+// var i=0;
+// var value="****"
+// while (i<input) {
+// document.write(value +"<br>")
+// i++
+// }
+
 // b.
-// ***
+// *
+// **
 // ***
 // ****
 // *****
+
+// var input=prompt("Enter a number")
+// var i=1;
+// var value=""
+// while (i<=input) {
+//     value+="*"
+// document.write(value +"<br>")
+// i++
+// }
 
 // c.
 // *****
